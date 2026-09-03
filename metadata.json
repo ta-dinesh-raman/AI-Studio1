@@ -1,0 +1,10 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Weather intelligence dashboard with city search, current conditions, forecasts, interactive trend charts, and smart activity recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
